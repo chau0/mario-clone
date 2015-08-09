@@ -1,0 +1,551 @@
+
+mario-animation.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mario-1-0
+  rotate: false
+  xy: 1, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-1-1
+  rotate: false
+  xy: 19, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-1-2
+  rotate: false
+  xy: 37, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-1-3
+  rotate: false
+  xy: 55, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-1-4
+  rotate: false
+  xy: 73, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-1-5
+  rotate: false
+  xy: 91, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-1-6
+  rotate: false
+  xy: 109, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-2-0
+  rotate: false
+  xy: 127, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-2-1
+  rotate: false
+  xy: 145, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-2-2
+  rotate: false
+  xy: 163, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-2-3
+  rotate: false
+  xy: 181, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-2-4
+  rotate: false
+  xy: 199, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-2-5
+  rotate: false
+  xy: 217, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-black-01
+  rotate: false
+  xy: 235, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-black-02
+  rotate: false
+  xy: 253, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-black-03
+  rotate: false
+  xy: 271, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-black-04
+  rotate: false
+  xy: 289, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-black-05
+  rotate: false
+  xy: 307, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-black-06
+  rotate: false
+  xy: 325, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-green-01
+  rotate: false
+  xy: 343, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-green-02
+  rotate: false
+  xy: 361, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-green-03
+  rotate: false
+  xy: 379, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-green-04
+  rotate: false
+  xy: 397, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-green-05
+  rotate: false
+  xy: 415, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-green-06
+  rotate: false
+  xy: 433, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-injuried-1
+  rotate: false
+  xy: 451, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-injuried-2
+  rotate: false
+  xy: 469, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-injuried-3
+  rotate: false
+  xy: 487, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-pull-1
+  rotate: false
+  xy: 505, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-pull-2
+  rotate: false
+  xy: 523, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-yellow-01
+  rotate: false
+  xy: 541, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-yellow-02
+  rotate: false
+  xy: 559, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-yellow-03
+  rotate: false
+  xy: 577, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-yellow-04
+  rotate: false
+  xy: 595, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-yellow-05
+  rotate: false
+  xy: 613, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-yellow-06
+  rotate: false
+  xy: 631, 27
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+mario-fire
+  rotate: false
+  xy: 649, 28
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1
+duck-01
+  rotate: false
+  xy: 1, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+duck-02
+  rotate: false
+  xy: 667, 35
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+duck-03
+  rotate: false
+  xy: 19, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+duck-04
+  rotate: false
+  xy: 685, 35
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+duck-05
+  rotate: false
+  xy: 37, 1
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+duck-06
+  rotate: false
+  xy: 703, 35
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+brick-block-01
+  rotate: false
+  xy: 55, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+brick-block-02
+  rotate: false
+  xy: 721, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-01
+  rotate: false
+  xy: 73, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-03
+  rotate: false
+  xy: 73, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-02
+  rotate: false
+  xy: 739, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-04
+  rotate: false
+  xy: 91, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-05
+  rotate: false
+  xy: 757, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-block-01
+  rotate: false
+  xy: 109, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-block-02
+  rotate: false
+  xy: 775, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-block-03
+  rotate: false
+  xy: 127, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+coin-block-04
+  rotate: false
+  xy: 793, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 145, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower-01
+  rotate: false
+  xy: 811, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower-05
+  rotate: false
+  xy: 811, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower-02
+  rotate: false
+  xy: 163, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower-03
+  rotate: false
+  xy: 829, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+flower-04
+  rotate: false
+  xy: 181, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-0-0
+  rotate: false
+  xy: 847, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-0-1
+  rotate: false
+  xy: 199, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-0-2
+  rotate: false
+  xy: 865, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-0-3
+  rotate: false
+  xy: 217, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-0-4
+  rotate: false
+  xy: 883, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-0-5
+  rotate: false
+  xy: 235, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-0-6
+  rotate: false
+  xy: 901, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mario-pull-0
+  rotate: false
+  xy: 253, 9
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mushroom
+  rotate: false
+  xy: 919, 43
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+goom-ba-01
+  rotate: false
+  xy: 271, 10
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+goom-ba-02
+  rotate: false
+  xy: 937, 44
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+goom-ba-03
+  rotate: false
+  xy: 289, 10
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+brick-broken
+  rotate: false
+  xy: 955, 51
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+fire-01
+  rotate: false
+  xy: 307, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+fire-02
+  rotate: false
+  xy: 965, 51
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+fire-03
+  rotate: false
+  xy: 317, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+fire-04
+  rotate: false
+  xy: 975, 51
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+fire-05
+  rotate: false
+  xy: 327, 17
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
